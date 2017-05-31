@@ -1,2 +1,2 @@
 # Phonegap
-Image get from Camera and gallery
+Get Image from Camera and gallery
